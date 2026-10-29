@@ -1,4 +1,4 @@
-# 👩🏾‍💻 Isabella Alves
+# 👩🏻‍💻 Isabella Alves
 
 **`Cientista de Dados`**
 
@@ -90,12 +90,13 @@ Me chamo Isabella Taline Alves, tenho 23 anos e sou natural do Interior de São 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IsabellaTaline&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=IsabellaTaline&langs_count=4&theme=nightowl"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaTaline&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api?username=IsabellaTaline&rank_icon=github&show_icons=true&include_all_commits=true&theme=ocean_dark" 
   />
+
